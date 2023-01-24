@@ -1,7 +1,7 @@
 owner: thulab
 repo: anylearn-status
 
-# runner: thu419-1
+runner: 10-101-67-15
 
 assignees:
   - phamour
