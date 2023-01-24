@@ -6,12 +6,13 @@ runner: 10-101-67-15
 assignees:
   - phamour
 
-# user-agent: phamour
+user-agent: phamour
 
 sites:
   - name: Anylearn
     url: https://anylearn.nelbds.cn
     icon: https://anylearn.nelbds.cn/favicon.ico
+    __dangerous__disable_verify_peer: true
 
 status-website:
   baseUrl: /anylearn-status
