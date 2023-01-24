@@ -5,18 +5,18 @@
     "icon": "https://anylearn.nelbds.cn/favicon.ico",
     "slug": "anylearn",
     "status": "down",
-    "uptime": "75.45%",
-    "uptimeDay": "75.45%",
-    "uptimeWeek": "75.45%",
-    "uptimeMonth": "75.45%",
-    "uptimeYear": "75.45%",
+    "uptime": "1.33%",
+    "uptimeDay": "1.33%",
+    "uptimeWeek": "1.33%",
+    "uptimeMonth": "1.33%",
+    "uptimeYear": "1.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 39
     }
   }
 ]
