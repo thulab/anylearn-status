@@ -1,22 +1,22 @@
 [
   {
     "name": "Anylearn",
-    "url": "https://anylearn.nelbds.cn/",
+    "url": "https://anylearn.nelbds.cn",
     "icon": "https://anylearn.nelbds.cn/favicon.ico",
     "slug": "anylearn",
-    "status": "down",
-    "uptime": "1.33%",
-    "uptimeDay": "1.33%",
-    "uptimeWeek": "1.33%",
-    "uptimeMonth": "1.33%",
-    "uptimeYear": "1.33%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "76.13%",
+    "uptimeDay": "76.13%",
+    "uptimeWeek": "76.13%",
+    "uptimeMonth": "76.13%",
+    "uptimeYear": "76.13%",
+    "time": 22,
+    "timeDay": 22,
+    "timeWeek": 22,
+    "timeMonth": 22,
+    "timeYear": 22,
     "dailyMinutesDown": {
-      "2023-01-24": 39
+      "2023-01-24": 160
     }
   }
 ]
