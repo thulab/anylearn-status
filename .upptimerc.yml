@@ -17,7 +17,7 @@ sites:
 status-website:
   baseUrl: /anylearn-status
   logoUrl: https://anylearn.nelbds.cn/img/logo-long.8b317769.png
-  name: Anylearn Status Page
+  name: Anylearn Status
   navbar:
     - title: Status
       href: /
