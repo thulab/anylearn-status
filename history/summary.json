@@ -6,14 +6,14 @@
     "slug": "anylearn",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.86%",
     "time": 61,
-    "timeDay": 183,
-    "timeWeek": 79,
-    "timeMonth": 62,
+    "timeDay": 15,
+    "timeWeek": 105,
+    "timeMonth": 61,
     "timeYear": 61,
     "dailyMinutesDown": {
       "2024-01-23": 8,
@@ -29,8 +29,7 @@
       "2023-06-10": 29,
       "2023-05-06": 5,
       "2023-04-21": 15,
-      "2023-04-16": 56,
-      "2023-01-24": 160
+      "2023-04-16": 56
     }
   }
 ]
